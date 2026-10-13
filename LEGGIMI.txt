@@ -1,0 +1,5 @@
+HATEGANG124 — bozza sito
+Apri index.html con un browser per visualizzare il sito.
+È una bozza statica responsive con HTML, CSS e JavaScript inclusi in un solo file.
+Le illustrazioni delle carte e i prodotti sono concept grafici provvisori.
+Prima della pubblicazione, sostituisci i contatti segnaposto e verifica testi e collegamenti.
